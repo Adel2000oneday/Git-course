@@ -1,2 +1,2 @@
-# Git-course
+# First project
 for learning the course 
